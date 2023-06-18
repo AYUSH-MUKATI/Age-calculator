@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/AYUSH-MUKATI/Age-calculator/static/css/main.a1b79804.css",
-    "main.js": "/AYUSH-MUKATI/Age-calculator/static/js/main.cdcab55c.js",
-    "static/js/787.1715cc32.chunk.js": "/AYUSH-MUKATI/Age-calculator/static/js/787.1715cc32.chunk.js",
-    "index.html": "/AYUSH-MUKATI/Age-calculator/index.html",
-    "main.a1b79804.css.map": "/AYUSH-MUKATI/Age-calculator/static/css/main.a1b79804.css.map",
-    "main.cdcab55c.js.map": "/AYUSH-MUKATI/Age-calculator/static/js/main.cdcab55c.js.map",
-    "787.1715cc32.chunk.js.map": "/AYUSH-MUKATI/Age-calculator/static/js/787.1715cc32.chunk.js.map"
+    "main.css": "/Age-calculator/static/css/main.a1b79804.css",
+    "main.js": "/Age-calculator/static/js/main.cdcab55c.js",
+    "static/js/787.1715cc32.chunk.js": "/Age-calculator/static/js/787.1715cc32.chunk.js",
+    "index.html": "/Age-calculator/index.html",
+    "main.a1b79804.css.map": "/Age-calculator/static/css/main.a1b79804.css.map",
+    "main.cdcab55c.js.map": "/Age-calculator/static/js/main.cdcab55c.js.map",
+    "787.1715cc32.chunk.js.map": "/Age-calculator/static/js/787.1715cc32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1b79804.css",
